@@ -1,0 +1,1 @@
+lista_jogos = ["Madero", "Habibs", "Outback", "Burguer", "Pizzaria", "Emporio", "Subway", "Divino", "LaVille", "Churrascaria", "Churraskin", "MaruSushi", "ZaoSushi", "Arturito", "Charco", "Kotori", "Pappagallo", "Kintar", "Bariobar", "NagaRio", "Mediterraneo"]
